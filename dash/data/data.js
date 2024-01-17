@@ -8,7 +8,7 @@ export const data = [
       total: 2795.95,
       status: 'On Hold',
       method: 'PayPal',
-      date: '15 Minutes ago',
+      date: '25 Minutes ago',
     },
     {
       id: 2,
